@@ -5,4 +5,3 @@ Forma studiów: Stacjonarne
 Kierunek: Informatyka stosowana
 Grupa: 7
 Student: Maciej Sudnikowicz
-test
